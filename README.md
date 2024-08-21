@@ -1,6 +1,10 @@
 # Hi there!
 
-My name is Konstantin, I am an Electrical Engineering student at Technical University of Munich. My focus is on Electronics and Embedded Hardware.
+My name is Konstantin, I am an Electrical Engineering student at Technical University of Munich. My focus is on Electronics and Embedded Software.
+Programming Languages that I know:
+- Python
+- C
+- VHDL
 
 
 

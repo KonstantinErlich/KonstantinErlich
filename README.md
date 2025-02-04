@@ -1,7 +1,5 @@
 # Hi!
-
-Engineering stuff is at:
-https://konstantinerlich.github.io/project-log/
+Electrical Engineering student.
 
 
 

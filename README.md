@@ -1,10 +1,7 @@
-# Hi there!
+# Hi!
 
-My name is Konstantin, I am an Electrical Engineering student at Technical University of Munich. My focus is on Electronics and Embedded Software.
-Programming Languages that I know:
-- Python
-- C
-- VHDL
+Engineering stuff is at:
+https://konstantinerlich.github.io/project-log/
 
 
 
